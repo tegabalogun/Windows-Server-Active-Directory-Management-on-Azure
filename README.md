@@ -19,7 +19,12 @@ Set up a Windows Server environment on Azure to practice Active Directory (AD) m
 <h2>Program Walk-through:</h2>
 
 <p align="center">
-Created Windows Server 2022 VM on Azure for AD setup: <br/>
+Created a  Windows Server 2022 VM on Azure for AD setup: <br/>
+<img src="images/Windows Server 2022"/>
+<br />
+<br />
+<p align="center">
+RDP into the server  <br/>
 <img src="images/Windows Server 2022"/>
 <br />
 <br />
