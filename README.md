@@ -29,7 +29,7 @@ RDP into the server  <br/>
 <br />
 <br />
 Installed Active Directory Domain Services (AD DS) and promoted the server to a domain controller: <br/>
-<img src="images/install_ad_ds"/>
+<img src="images/ADDS"/>
 <br />
 <br />
 Set up user accounts, groups, and organizational units (OUs) within Active Directory to simulate organizational structure: <br/>
