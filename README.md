@@ -25,7 +25,7 @@ Created a  Windows Server 2022 VM on Azure for AD setup: <br/>
 <br />
 <p align="center">
 RDP into the server  <br/>
-<img src="images/Windows Server 2022"/>
+<img src="images/RDP"/>
 <br />
 <br />
 Installed Active Directory Domain Services (AD DS) and promoted the server to a domain controller: <br/>
