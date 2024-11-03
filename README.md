@@ -35,7 +35,7 @@ Installed Active Directory Domain Services (AD DS) and promoted the server to a 
 <br />
 Set up user accounts, groups, and organizational units (OUs) within Active Directory to simulate organizational structure: <br/>
 <img src="images/create acct"/>
-<img src="images/create acct"/>
+<img src="images/add to group"/>
 <br />
 <br />
 Configured Group Policy Objects (GPOs) to enforce security policies across the domain, such as password policies: <br/>
