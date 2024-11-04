@@ -40,7 +40,7 @@ Set up user accounts, groups, and organizational units (OUs) within Active Direc
 <br />
 Configured Group Policy Objects (GPOs) to enforce security policies across the domain, such as password policies: <br/>
 <img src="images/GPO"/>
-<img src="images/GPO"/>
+<img src=""/>
 <img src="images/GPO"/>
 <br />
 <br />
