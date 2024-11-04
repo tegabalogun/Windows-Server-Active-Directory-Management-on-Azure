@@ -41,7 +41,7 @@ Set up user accounts, groups, and organizational units (OUs) within Active Direc
 Configured Group Policy Objects (GPOs) to enforce security policies across the domain, such as password policies: <br/>
 <img src="images/GPO"/>
 <img src="images/GPO general"/>
-<img src="images/GPO"/>
+<img src="images/lockout policy"/>
 <br />
 <br />
 Set up file sharing within the AD environment and configured permissions based on group roles: <br/>
