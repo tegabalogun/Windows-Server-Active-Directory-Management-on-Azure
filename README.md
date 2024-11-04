@@ -45,7 +45,7 @@ Configured Group Policy Objects (GPOs) to enforce security policies across the d
 <br />
 <br />
 Set up file sharing within the AD environment and configured permissions based on group roles: <br/>
-<img src="images/file_sharing"/>
+<img src="images/fle sharing"/>
 <br />
 <br />
 Joined a Windows 10 Enterprise VM to the domain to test domain join and policy application: <br/>
