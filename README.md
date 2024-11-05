@@ -54,5 +54,7 @@ Joined a Windows 10 Enterprise VM to the domain to test domain join and policy a
 <br />
 <br />
 Verified policy application and access permissions by logging in as different users within the domain: <br/>
-<img src="images/policy_application"/>
+<img src="images/remote access"/>
+<img src="images/remote access"/>
+
 </p>
