@@ -49,7 +49,7 @@ Set up file sharing within the AD environment and configured permissions based o
 <br />
 <br />
 Joined a Windows 10 Enterprise VM to the domain to test domain join and policy application: <br/>
-<img src="images/domain_join_windows10"/>
+<img src="images/join"/>
 <br />
 <br />
 Verified policy application and access permissions by logging in as different users within the domain: <br/>
